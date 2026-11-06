@@ -1,0 +1,30 @@
+{
+  "player_name": "克莱·汤普森",
+  "en_name": "Klay Thompson",
+  "jersey_number": 11,
+  "team": "金州勇士 / 达拉斯独行侠 / 迈阿密热火",
+  "tts_script": "~/Downloads/克莱·汤普森/克莱·汤普森_TTS口播文案.txt",
+  "voiceover_audio": {
+    "raw_wav": "~/Downloads/克莱·汤普森/克莱·汤普森_配音原声.wav",
+    "raw_mp3": "~/Downloads/克莱·汤普森/克莱·汤普森_配音原声.mp3",
+    "duration_seconds": 190.34
+  },
+  "visual_assets": {
+    "images_count": 42,
+    "images_dir": "~/Downloads/克莱·汤普森/克莱·汤普森_高清图片素材",
+    "videos_count": 18,
+    "videos_dir": "~/Downloads/克莱·汤普森/克莱·汤普森_视频素材",
+    "strict_non_game": true
+  },
+  "animation_modules": {
+    "dir": "~/Downloads/克莱·汤普森/克莱·汤普森_动效包装",
+    "modules_count": 8,
+    "resolution": "1920x1080",
+    "fps": 60
+  },
+  "jianying_project": {
+    "name": "克莱·汤普森_人物志",
+    "draft_dir": "~/Movies/JianyingPro/User Data/Projects/young/JianyingPro Drafts/克莱·汤普森_人物志",
+    "tracks_count": 12
+  }
+}

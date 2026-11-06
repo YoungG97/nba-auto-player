@@ -1,0 +1,29 @@
+{
+  "system_name": "nba-auto-player",
+  "version": "1.0.0",
+  "workspace_root": "~/Downloads",
+  "jianying_draft_root": "~/Movies/JianyingPro/User Data/Projects/young/JianyingPro Drafts",
+  "audio_standards": {
+    "sample_rate": 44100,
+    "channels": 1,
+    "comma_gap_range": [0.05, 0.08],
+    "sentence_gap_range": [0.15, 0.20],
+    "max_dead_air": 0.15,
+    "peak_db": -2.0
+  },
+  "visual_standards": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 60,
+    "strict_non_game_broll": true,
+    "min_getty_width": 2048,
+    "require_horizontal": true
+  },
+  "stages": [
+    "01_clean_tts_script",
+    "02_synthesize_voiceover",
+    "03_harvest_visual_assets",
+    "04_produce_animation_effects",
+    "05_assemble_jianying_timeline"
+  ]
+}

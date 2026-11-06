@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Environment / Secret Credentials
+config/minimax_config.json
+.env
+*.key
+*.token
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Media / Big downloads
+*.mp4
+*.mp3
+*.wav
+*.part
+*.m4a
+*.webm

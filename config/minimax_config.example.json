@@ -1,0 +1,22 @@
+{
+  "base_url": "https://api.minimaxi.com",
+  "api_key": "YOUR_MINIMAX_API_KEY",
+  "group_id": "YOUR_MINIMAX_GROUP_ID",
+  "voice_id": "young_nba_narrator_v1",
+  "model": "speech-02-hd",
+  "fallback_models": [
+    "speech-01-turbo",
+    "speech-01-hd"
+  ],
+  "voice_setting": {
+    "speed": 1.0,
+    "vol": 1.0,
+    "pitch": 0
+  },
+  "audio_setting": {
+    "sample_rate": 44100,
+    "bitrate": 128000,
+    "format": "mp3",
+    "channel": 1
+  }
+}
